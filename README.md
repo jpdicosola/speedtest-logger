@@ -10,5 +10,5 @@ You will also need to set the location of your speedtest-cli script.
 
 Dependencies
 ------------
--[speedtest-cli] (https://github.com/sivel/speedtest-cli.git)
--python
+- [speedtest-cli] (https://github.com/sivel/speedtest-cli.git)
+- python
